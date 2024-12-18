@@ -1,1 +1,1 @@
-# Bluetooth_Attendence_Marking_System
+# Bluetooth_Attendance_Marking_System
