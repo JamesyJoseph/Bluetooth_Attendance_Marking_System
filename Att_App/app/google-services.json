@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "529351540463",
+    "firebase_url": "https://attapp-86230-default-rtdb.firebaseio.com",
+    "project_id": "attapp-86230",
+    "storage_bucket": "attapp-86230.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529351540463:android:1b473c0b5cf77e07b7a51a",
+        "android_client_info": {
+          "package_name": "com.example.att_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABkVxMPGqLRRMI0L6GMnKR2ShFffKFnQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529351540463:android:948503aa0849b614b7a51a",
+        "android_client_info": {
+          "package_name": "com.example.attapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABkVxMPGqLRRMI0L6GMnKR2ShFffKFnQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
